@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: white;
+}
+.box {
+  /* height: 100vh; */
+  width: 60vw;
+  margin: auto;
+  background-color: black;
+}
+.name {
+  font-family: "Nanum Gothic", sans-serif;
+  font-weight: 900;
+  font-size: 50px;
+}
+.year {
+  font-family: "Nanum Gothic", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+}
+.mid {
+  background-color: rgb(20, 24, 248);
+  box-shadow: 40px 30px 80px 10px rgb(19, 22, 198) inset;
+  height: 50vh;
+}
+.img-pic {
+  height: 50vh;
+}
+.speech {
+  font-family: "Nanum Gothic", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+}
+#more {
+  display: none;
+}
+#myBtn {
+  background-color: rgb(20, 24, 248);
+  border: none;
+  padding: 0px 10px;
+  border-radius: 30px;
+  font-family: "Nanum Gothic", sans-serif;
+  font-weight: 50;
+  font-size: 15px;
+}
+.bio {
+  font-family: "Nanum Gothic", sans-serif;
+}
+.line-box {
+  border: 1px solid white;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+}
+.sign {
+  font-family: "Nanum Gothic", sans-serif;
+}
